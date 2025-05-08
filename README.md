@@ -1,0 +1,1 @@
+The research aims to extend off-the-shelf main memory databases to meet the needs of fast data analytics and bridge the gap with modern streaming systems. The implementation focuses on efficiently answering analytical queries by combining historical and real-time streaming data.
